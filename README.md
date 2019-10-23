@@ -11,6 +11,6 @@ Cambridge Textbook, 2019
 Copyright 2019, All Rights Reserved  
 
 
-Python code library by Daniel Dylewsky. This code and equivalent Matlab code are available at http://www.databookuw.com/. There are a few items that are only available in the Matlab version
+Python code library by Daniel Dylewsky. This code and equivalent Matlab code are available at http://www.databookuw.com/. There are a few items that are only available in the Matlab version. Many of these notebooks make use of third-party Python modules. Download links for the more obscure ones are provided inline.
 
 Please cite this book when using this code/data. 
