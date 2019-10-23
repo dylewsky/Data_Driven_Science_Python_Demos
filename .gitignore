@@ -1,0 +1,10 @@
+*.doc
+*.zip
+*.rtf
+*.eps
+Python_Codebase_Notes.txt
+UTILS\*
+*.m
+*\.ipynb_checkpoints\*
+*\__pychache__
+*\.DS_Store
