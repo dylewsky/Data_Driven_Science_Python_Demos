@@ -9,8 +9,11 @@ Data Driven Science & Engineering: Machine Learning, Dynamical Systems, and Cont
 by S. L. Brunton and J. N. Kutz  
 Cambridge Textbook, 2019  
 Copyright 2019, All Rights Reserved  
+http://databookuw.com/
 
 
-Python code library by Daniel Dylewsky. This code and equivalent Matlab code are available at http://www.databookuw.com/. There are a few items that are only available in the Matlab version. Many of these notebooks make use of third-party Python modules. Download links for the more obscure ones are provided inline.
+Python code library by Daniel Dylewsky. There are a few items that are only available in the Matlab version. Many of these notebooks make use of third-party Python modules. Download links for the more obscure ones are provided inline.
+
+MATLAB versions of these demos are available at https://github.com/dynamicslab/Data_Driven_Science_MATLAB_Demos/
 
 Please cite this book when using this code/data. 
