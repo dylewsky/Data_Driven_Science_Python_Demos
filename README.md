@@ -14,6 +14,6 @@ http://databookuw.com/
 
 Python code library by Daniel Dylewsky. There are a few items that are only available in the Matlab version. Many of these notebooks make use of third-party Python modules. Download links for the more obscure ones are provided inline.
 
-MATLAB versions of these demos are available at https://github.com/dynamicslab/Data_Driven_Science_MATLAB_Demos/
+MATLAB versions of these demos are available at https://github.com/dynamicslab/databook_matlab
 
 Please cite this book when using this code/data. 
